@@ -1,3 +1,4 @@
+#!/bin/env python
 import io
 import itertools
 import os
